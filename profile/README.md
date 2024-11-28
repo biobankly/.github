@@ -1,7 +1,4 @@
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<biobankly>"/>  
-    </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biobankly)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="uk_biobank.png" alt="UK Biobank Logo" width="200" align="right">
 <br/>
