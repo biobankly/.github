@@ -1,3 +1,8 @@
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<biobankly>"/>  
+    </div>
+
 <img src="uk_biobank.png" alt="UK Biobank Logo" width="200" align="right">
 <br/>
 
