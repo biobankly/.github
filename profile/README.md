@@ -1,26 +1,17 @@
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/donphi/8cf03fa9c51639a59e292eedfb484580/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
 
-<div style="width: 20%;">
+<div style="width: 30%;" align="center;">
   <img 
     src="https://github.com/biobankly/.github/blob/main/biobankly-Dark.svg#gh-dark-mode-only" 
     alt="Logo Dark" 
-    style="width: 20%; height: auto;"
   />
 </div>
-
-<div style="width: 20%;">
+<div style="width: 30%;" align="center;">
   <img 
     src="https://github.com/biobankly/.github/blob/main/biobankly-White.svg#gh-light-mode-only" 
-    alt="Logo Light" 
-    style="width: 20%; height: auto;"
+    alt="Logo Light"
   />
 </div>
-
-<img 
-  src="uk_biobank.png" 
-  alt="UK Biobank Logo" 
-  style="width: 200px; height: auto; float: right;"
-/>
 <br/>
 
 # Welcome to biobankly!
