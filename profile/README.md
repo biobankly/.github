@@ -4,7 +4,7 @@
   <img 
     src="https://github.com/biobankly/.github/blob/main/biobankly-Dark.svg#gh-dark-mode-only" 
     alt="Logo Dark" 
-    style="display: block; width: 100%;"
+    style="width: 100%; height: auto;"
   />
 </div>
 
@@ -12,15 +12,14 @@
   <img 
     src="https://github.com/biobankly/.github/blob/main/biobankly-White.svg#gh-light-mode-only" 
     alt="Logo Light" 
-    style="display: block; width: 100%;"
+    style="width: 100%; height: auto;"
   />
 </div>
 
 <img 
   src="uk_biobank.png" 
   alt="UK Biobank Logo" 
-  width="200" 
-  align="right"
+  style="width: 200px; height: auto; float: right;"
 />
 <br/>
 
