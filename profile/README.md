@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biobankly)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/donphi/8cf03fa9c51639a59e292eedfb484580/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
+
 
 <img src="uk_biobank.png" alt="UK Biobank Logo" width="200" align="right">
 <br/>
