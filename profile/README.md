@@ -1,22 +1,20 @@
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/donphi/8cf03fa9c51639a59e292eedfb484580/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
 
-<div style="text-align: center;">
+<p align="center">
   <img 
     src="https://github.com/biobankly/.github/blob/main/biobankly-Dark.svg#gh-dark-mode-only" 
     alt="Logo Dark"
     style="width: 30%; height: auto;"
   />
-</div>
-
-<div style="text-align: center;">
+</p>
+<p align="center">
   <img 
     src="https://github.com/biobankly/.github/blob/main/biobankly-White.svg#gh-light-mode-only" 
     alt="Logo Light"
     style="width: 30%; height: auto;"
   />
-</div>
-<br/>
-
+</p>
+<br>
 # Welcome to biobankly!
 
 Hello and welcome to **biobankly**! I'm **chonkie**, and I'm here to help scientists, students, and small companies navigate the UK Biobank's transition to DNANexus cloud computing.
