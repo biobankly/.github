@@ -25,47 +25,66 @@
 
 Hello and welcome to **biobankly**! I'm **chonkie**, and I'm here to help scientists, students, and small companies navigate the UK Biobank's transition to DNANexus cloud computing.
 
+---
+
 ## Summary 📜
 
-Each repository in this organization serves a specific function to help you manage and utilize the UK Biobank Nexus Platform more effectively. Whether you're exploring phenotypes, running models, performing diagnostics, or handling data uploads, you'll find a repository tailored to simplify that particular process.
+Each repository listed above serves a specific function to help you manage and utilize the UK Biobank Nexus Platform more effectively. Whether you're exploring phenotypes, running models, performing diagnostics, or handling data uploads, you'll find a repository tailored to simplify that particular process.
+
+---
 
 ## Featured Repositories ✨
 
-### 1. [UKB-Phenotype-Explorer](https://github.com/biobankly/ukb-ontology) 👀
+### 1. UKB-Phenotype-Explorer 👀
 
 **What It Does:**  
 This is your go-to tool for exploring UK Biobank showcase data with ease! Navigate through categories, select and download phenotype `field_ids`, and generate a ready-to-go phenotype CSV file. Perfect for seamless importing into the Swiss Army Knife tool, and ultimately simplifying data processing in the RAP.
 
-### 2. [UKB-Extractor](https://github.com/biobankly/ukb-extract) 🏗️
+---
+
+### 2. UKB-Extractor 🏗️
 
 **What It Does:**  
 A powerful companion to the UKB-Phenotype-Explorer, the UKB-Extractor efficiently fetches the phenotype data you've selected. Together, these two repos form a pipeline that takes you from discovery to extraction, ensuring your data is always at your fingertips.
 
-**They work hand in hand!** Using the **UKB-Phenotype-Explorer** you pick your data, and with the **UKB-Extractor** you turn that selection into a tangible CSV file, ready to be processed and analyzed.
+**They work hand in hand!**  
+Using the **UKB-Phenotype-Explorer**, you pick your data, and with the **UKB-Extractor**, you turn that selection into a tangible CSV file, ready to be processed and analyzed.
+
+---
 
 ## About Me :bowtie:
 
 I'm currently a student working on my dissertation focused on the UK Biobank. During my research, I've noticed how scattered the Biobank's resources can be, making it challenging for newcomers—especially those without an in-house developer team. I'm here to streamline that experience!
 
+---
+
 ## New to GitHub? :octocat:
 
 No worries! GitHub is a platform to share and collaborate. Here, I'm offering tools, templates, and step-by-step instructions you can easily download and use, even if you've never touched code before. If you feel lost, don't be alarmed—just take it step-by-step.
 
-## What Is GitHub? :octocat:
+---
 
-**GitHub** is like a digital library where you can find code, templates, and documentation to help with your projects. Think of it as a place to pick up the instructions and tools you need—no coding background required.
+### What Is GitHub? :octocat:
 
-## What Is a Repository? 📁
+GitHub is like a digital library where you can find code, templates, and documentation to help with your projects. Think of it as a place to pick up the instructions and tools you need—no coding background required.
 
-A **repository (repo)** is like a project folder containing all the files, code, and documentation you need. Each repo is carefully organized to help you quickly find what you're looking for.
+---
+
+### What Is a Repository? 📁
+
+A repository (repo) is like a project folder containing all the files, code, and documentation you need. Each repo is carefully organized to help you quickly find what you're looking for.
+
+---
 
 ## Navigating the Repositories 🗺️
 
-On the left panel, you will find all **biobankly's** repositories. Click on one to explore its files. Feeling overwhelmed? Start by checking out the `README`—it usually provides all the essential info you need to begin.
+You’ll find all **biobankly's repositories** listed above. Click on one to explore its files. Feeling overwhelmed? Start by checking out the README—it usually provides all the essential info you need to begin.
 
-1. **Read the README File:** Your quick start guide!
-2. **Keep a Positive Attitude:** Approaching new tools can be fun.
-3. **Be Patient:** It might not be perfect on the first try, but we’ll get through it together.
+- **Read the README File:** Your quick start guide!
+- **Keep a Positive Attitude:** Approaching new tools can be fun.
+- **Be Patient:** It might not be perfect on the first try, but we’ll get through it together.
+
+---
 
 ## What This Organization Offers 🙏
 
@@ -75,19 +94,21 @@ On the left panel, you will find all **biobankly's** repositories. Click on one 
 
 No need to create a GitHub account—just grab what you need and go!
 
+---
+
 ## Get Involved 🍹
 
-I'm dedicated to **democratizing access** to the UK Biobank. Whether you're a beginner or just need an extra hand:
+I'm dedicated to democratizing access to the UK Biobank. Whether you're a beginner or just need an extra hand:
 
 - **Open an Issue:** Encounter a problem or have a suggestion? Let me know!
 - **Say Hi:** Feel free to reach out if you have questions or just want to connect.
 
 Let’s make UK Biobank data exploration smoother, together!
 
-Thank you for visiting biobankly. Let's make the UK Biobank accessible to everyone!
-
 ---
 
+Thank you for visiting **biobankly**. Let's make the UK Biobank accessible to everyone!
+
 **donphi**  
-*Student & Developer*  
-[GitHub Profile](https://github.com/biobankly)
+Student & Developer  
+[GitHub Profile](https://github.com/donphi)
