@@ -31,7 +31,7 @@ Each repository in this organization serves a specific function to help you mana
 
 ## Featured Repositories ✨
 
-### 1. [UKB-Phenotype-Explorer](https://github.com/biobankly/UKB-Phenotype-Explorer) 👀
+### 1. [UKB-Phenotype-Explorer](https://github.com/biobankly/ukb-ontology) 👀
 
 **What It Does:**  
 This is your go-to tool for exploring UK Biobank showcase data with ease! Navigate through categories, select and download phenotype `field_ids`, and generate a ready-to-go phenotype CSV file. Perfect for seamless importing into the Swiss Army Knife tool, and ultimately simplifying data processing in the RAP.
