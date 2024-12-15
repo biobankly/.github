@@ -1,0 +1,19 @@
+name: GitHub Clone Count Update
+
+on:
+  schedule:
+    - cron: '0 */24 * * *'  # Runs every 24 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: github-clone-count-badge
+      uses: MShawon/github-clone-count-badge@main
+      env:
+        GIST_ID: your-gist-id    # Replace with your gist ID
+        ACCESS_TOKEN: ${{ secrets.GIST_TOKEN }}
