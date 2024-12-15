@@ -35,20 +35,24 @@ Each repository listed above serves a specific function to help you manage and u
 
 ## Featured Repositories ✨
 
-### 1. UKB-Phenotype-Explorer 👀
+### 1. [UKB-Phenotype-Explorer 👀](https://github.com/biobankly/ukb-ontology)
 
 **What It Does:**  
 This is your go-to tool for exploring UK Biobank showcase data with ease! Navigate through categories, select and download phenotype `field_ids`, and generate a ready-to-go phenotype CSV file. Perfect for seamless importing into the Swiss Army Knife tool, and ultimately simplifying data processing in the RAP.
 
+*Each repository includes a [LICENCE.md](https://github.com/biobankly/ukb-ontology/blob/main/LICENCE.md) file.*
+
 ---
 
-### 2. UKB-Extractor 🏗️
+### 2. [UKB-Extractor 🏗️](https://github.com/biobankly/ukb-extract)
 
 **What It Does:**  
 A powerful companion to the UKB-Phenotype-Explorer, the UKB-Extractor efficiently fetches the phenotype data you've selected. Together, these two repos form a pipeline that takes you from discovery to extraction, ensuring your data is always at your fingertips.
 
 **They work hand in hand!**  
 Using the **UKB-Phenotype-Explorer**, you pick your data, and with the **UKB-Extractor**, you turn that selection into a tangible CSV file, ready to be processed and analyzed.
+
+*Each repository includes a [LICENCE.md](https://github.com/biobankly/ukb-extract/blob/main/LICENCE.md) file.*
 
 ---
 
@@ -109,6 +113,5 @@ Let’s make UK Biobank data exploration smoother, together!
 
 Thank you for visiting **biobankly**. Let's make the UK Biobank accessible to everyone!
 
-**donphi**  
-Student & Developer  
+**donphi**   
 [GitHub Profile](https://github.com/donphi)
